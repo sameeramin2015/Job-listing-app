@@ -1,0 +1,44 @@
+.container{
+    margin: 0;
+    padding: 0;
+    background-color:cornflowerblue;
+    padding-bottom: 50px;
+}
+.links{
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+.ul{
+    list-style-type: none;
+}
+.li{
+    display: inline;
+    padding-right: 20px;
+    color: white;
+}
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    color: white;
+    margin-left: 200px;
+    padding-top: 40px;
+    
+}
+.subTitle{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    color: white;
+    margin-left: 200px;
+}
+.spantitle{
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.spansubtitle{
+    font-size: 18px;
+    padding-top: 10px;
+}
